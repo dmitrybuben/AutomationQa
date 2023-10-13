@@ -71,7 +71,7 @@ public class CalculatorTest {
         // if (0 != seminars.first.Calculator.Calculator.calculation(2, 6, '+')) {
         //     throw new AssertionError("Ошибка в методе");
         // }
-        //   assert 0 == seminars.first.Calculator.Calculator.calculation(2, 6, '+');
+        //assert 0 == seminars.first.Calculator.Calculator.calculation(2, 6, '+');
         //    assertThat(seminars.first.Calculator.Calculator.calculation(2, 6, '+')).isEqualTo(0);
     }
 }
